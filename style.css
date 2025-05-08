@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  font-size: 16px;
+  background-color: black;
+}
+
+body::before {
+  content: "";
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: hsl(90, 100%, 50%);
+  -webkit-animation: testAnimacion 5s ease-in-out infinite alternate-reverse;
+  animation: testAnimacion 5s ease-in-out infinite alternate-reverse;
+}
+
+
