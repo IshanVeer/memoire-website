@@ -43,6 +43,7 @@
                             <h4 class="title">Services</h4>
                             <ul>
                                 <li class="text"><a href="brand-designing-company-in-mumbai.php">Brand Designing</a></li>
+                                <li class="text"><a href="brand-identity-design.php">Brand Identity Design</a></li>
                                 <li class="text"><a href="best-brand-strategy-company-in-mumbai-india.php">Brand Strategy</a></li>
                                 <li class="text"><a href="top-digital-marketing-partner-in-mumbai-india.php">Digital Marketing</a></li>
                                 <li class="text"><a href="creative-packaging-and-designing-services-in-navi-mumbai.php">Packaging & Designing</a></li>
