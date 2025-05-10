@@ -182,6 +182,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--====== PAGE TITLE  PART ENDS ======-->
     <section class="key-feature-area">
         <div class="container">
+
+        <!-- brand stratergy contaienr -->
             
             <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
                 <div class="row align-items-center">
@@ -207,15 +209,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 </div>
             </div>
-
-            <div class="key-feature-item" style="background-color:#f4ece9;">
+            <!-- brand naming container -->
+            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
                 <div class="row align-items-center">
                     <div class="col-lg-4">
+                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
+                            <img src="img/brand-naming.jpg" style="width:90%;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                       <div class="key-feature-content">
+                            <h2 class="title">Brand naming</h2>
+                            <div class="text">A strong brand begins with a memorable name. We craft distinctive and meaningful brand names that resonate with your target audience, reflect your core values, and stand out in competitive markets. Our process blends strategy, creativity, and linguistic precision to ensure your brand name is unique, relevant, and built to last.</div><br>
+                            
+                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<!-- color palette contaienr -->
+            <div class="key-feature-item key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 order-1 order-lg-2">
                         <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
                             <img src="img/color.png" style="width:90%;" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-8">
+                    <div class="col-lg-8 order-2 order-lg-1">
                        <div class="key-feature-content">
                             <h2 class="title">Color palatte and typography</h2>
                             <div class="text">A thoughtfully crafted color palette and typography set the foundation for your brand, evoking the right emotions and reinforcing recognition. By selecting the perfect combination, we ensure your brand's visuals are cohesive, professional, and effectively convey your unique personality and values across every touchpoint.</div><br>
@@ -225,11 +246,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                 </div>
             </div>
+            <!-- brand logo design -->
+            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 order-1 order-lg-2">
+                       <div class="key-feature-content">
+                            <h2 class="title">⁠Brand logo design</h2>
 
-
+                            <div class="text">Your logo is the face of your brand—it should be instantly recognizable, timeless, and aligned with your brand identity. We design logos that combine visual impact with strategic intent, ensuring they communicate your essence, build trust, and leave a lasting impression across all platforms and materials.</div><br>
+                           
+                           
+                        </div>
+                    </div>
+                    <div class="col-lg-4 order-2 order-lg-1">
+                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
+                            <img src="img/collateral.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Brand guideline book -->
             <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
                 <div class="row align-items-center">
                     <div class="col-lg-8 order-2 order-lg-1">
+                       <div class="key-feature-content">
+                            <h2 class="title"> ⁠Brand guidelines book</h2>
+
+                            <div class="text">A brand guideline book is your brand’s instruction manual—it ensures consistency and clarity across every touchpoint. From logo usage and color palettes to tone of voice and imagery, we create comprehensive guidelines that help internal teams and external partners maintain a unified and professional brand presence.</div><br>
+                           
+                           
+                        </div>
+                    </div>
+                    <div class="col-lg-4 order-1 order-lg-2">
+                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
+                            <img src="img/brand-guideline.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<!-- collateral -->
+            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 order-1 order-lg-2">
                        <div class="key-feature-content">
                             <h2 class="title">Business collateral design</h2>
 
@@ -238,22 +297,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            
                         </div>
                     </div>
-                    <div class="col-lg-4 order-1 order-lg-2">
+                    <div class="col-lg-4 order-2 order-lg-1">
                         <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/collateral.png" alt="">
+                            <img src="img/business-collateral.jpg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
-
+<!-- Social media -->
             <div class="key-feature-item" style="background-color:#f4ece9;">
                 <div class="row align-items-center">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 order-1 order-lg-2">
                         <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
                             <img src="img/feed.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-8">
+                    <div class="col-lg-8 order-2 order-lg-1">
                        <div class="key-feature-content">
                             <h2 class="title">Social Media Feed Design</h2>
                             <div class="text">We design social media feeds that reflect a brand’s identity and goals through engaging visuals, consistent design, and tailored content. This enhances recognition, drives engagement, and builds stronger connections with the audience.</div><br>
@@ -266,10 +325,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
    			</div><br><br>
             
-
+<!-- 3-D modelling -->
    			<div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
                 <div class="row align-items-center">
-                    <div class="col-lg-8 order-2 order-lg-1">
+                    <div class="col-lg-8 order-1 order-lg-2">
                        <div class="key-feature-content">
                             <h2 class="title">3D Modeling and Animation</h2>
                             <div class="text">3D modeling and animation bring products to life with dynamic visuals for videos, ads, and magazines. Engaging and cost-efficient, they showcase intricate details, enhance communication, and streamline development. At Memoire, we craft 3D models that enhance your brand and captivate your audience.</div><br>
@@ -277,7 +336,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            
                         </div>
                     </div>
-                    <div class="col-lg-4 order-1 order-lg-2">
+                    <div class="col-lg-4 order-2 order-lg-1">
                         <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
                             <img src="img/3d.png" style="width: 100%; background-color: #fff;" alt="">
                         </div>
