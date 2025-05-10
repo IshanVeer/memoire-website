@@ -31,6 +31,7 @@
                             <ul>
                                 <li class="text"><a href="https://memoire.co.in/">Home</a></li>
                                 <li class="text"><a href="about.php">About Us</a></li>
+                                <li class="text"><a  href="brand-merchandising.php">Merchandising </a></li>
                                 <li class="text"><a href="contact.php">Contact</a></li>
                                 <li class="text"><a href="#">FAQ</a></li>
                                 <li class="text"><a href="blog.php">Blogs</a></li>

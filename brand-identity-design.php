@@ -98,6 +98,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <a class="nav-link" href="about.php">About </a>
                                         </li>
                                         <li class="nav-item">
+                                            <a class="nav-link" href="brand-merchandising.php">Merchandising </a>
+                                        </li>
+                                        <li class="nav-item">
                                             <a class="nav-link" href="">Service </a>
                                             <ul class="sub-menu">
                                                 <li><a href="brand-identity-design.php">Brand Identity</a></li>
@@ -220,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="col-lg-8">
                        <div class="key-feature-content">
                             <h2 class="title">Brand naming</h2>
-                            <div class="text">A strong brand begins with a memorable name. We craft distinctive and meaningful brand names that resonate with your target audience, reflect your core values, and stand out in competitive markets. Our process blends strategy, creativity, and linguistic precision to ensure your brand name is unique, relevant, and built to last.</div><br>
+                            <div class="text">We Craft names that resonate with the audience, reflect the brand’s identity, and support long-term goals. Through creativity and research, we ensure the name is unique, memorable, culturally appropriate, and aligned with the brand’s values while considering trademarking, scalability, and market impact</div><br>
                             
                             <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
                         </div>

@@ -23,6 +23,9 @@
                                             <a class="nav-link" href="about.php">About </a>
                                         </li>
                                         <li class="nav-item">
+                                            <a class="nav-link" href="brand-merchandising.php">Merchandising </a>
+                                        </li>
+                                        <li class="nav-item">
                                             <a class="nav-link" href="">Service </a>
                                             <ul class="sub-menu">
                                                 <li><a href="brand-designing-company-in-mumbai.php">Brand Design</a></li>
