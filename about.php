@@ -181,24 +181,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
 
                     </div>
-                    <div class="row about1" style="width:120%; margin-bottom: 80px; margin-left: -110px;">
+                    <div class="row about1 justify-content-center" style=" margin-bottom: 80px; ">
 
-                        <div class="col-lg-2 col-md-3 col-sm-3">
+                        <!-- <div class="col-lg-2 col-md-3 col-sm-3">
                             <h6 class="heading">Brand Design</h6>
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-3">
                             <h6 class="heading">Brand Startegy</h6>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-3">
+                        </div> -->
+                        <div class="col-auto px-3">
                             <h6 class="heading">Packaging Design</h6>
                         </div>
-                        <div class="col-lg-2 col-md-3 col-sm-3">
+                        <div class="col-auto px-3">
                             <h6 class="heading">Digital Marketing</h6>
                         </div>
-                        <div class="col-lg-2 col-md-3 col-sm-3">
+                        <!-- <div >
                             <h6 class="heading">Advertising</h6>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-3">
+                        </div> -->
+                        <div class="col-auto px-3">
                             <h6 class="heading">Space design</h6>
                         </div>
                     </div>
