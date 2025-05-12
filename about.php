@@ -497,70 +497,83 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <div class="icon">
-                            <img src="img/icons/strategy.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Brand Strategy</h3>
-                        <p class="text">We guide you through the process of defining your brand identity, crafting a compelling value proposition, and developing a clear brand roadmap for long-term success.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
-
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="icon">
-                            <img src="img/icons/brand.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Brand Design</h3>
-                        <p class="text">Our team of talented designers creates a visually appealing and consistent brand identity, including logo design, brand guidelines, and marketing materials.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="0ms">
-                        <div class="icon">
-                            <img src="img/icons/packaging.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Packaging Design</h3>
-                        <p class="text">We develop and execute comprehensive digital marketing campaigns that encompass search engine optimization (SEO), pay-per-click (PPC) advertising, social media marketing.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <div class="icon">
-                            <img src="img/icons/digital.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Digital Marketing</h3>
-                        <p class="text"> We strategically leverage outdoor advertising solutions like billboards, signage, and vehicle wraps to reach your target audience in high-traffic areas.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <div class="icon">
-                            <img src="img/icons/advertising.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Advertising</h3>
-                        <p class="text"> We strategically leverage outdoor advertising solutions like billboards, signage, and vehicle wraps to reach your target audience in high-traffic areas.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="service-item service-item-6 mt-30 animated wow fadeInUp" style="height:394.55px" data-wow-duration="1000ms" data-wow-delay="300ms">
-                        <div class="icon">
-                            <img src="img/icons/space.png" style="height: 50px;">
-                        </div>
-                        <h3 class="title">Space Design</h3>
-                        <p class="text"> We strategically leverage outdoor advertising solutions like billboards, signage, and vehicle wraps to reach your target audience in high-traffic areas.</p>
-                        <a class="main-btn main-btn-3 mt-25 svc-btn" href="#">Read More</a>
-                    </div>
+            <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="text-center">
+                    <h2 class="title" style="font-size:40px;"><b style="color:#f26722;font-weight: 700;">Services</b> We Specialize In</h2>
+                    <span>Branding & Marketing Solutions to Drive Growth</span>
                 </div>
             </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex" >
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="300ms">
+                    <div class="icon">
+                        <img src="img/icons/branding.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Brand Identity Design</h3>
+                    <p class="text">We craft distinctive brand identities that leave a lasting impression. From logo design to brand guidelines, our expert team helps you build a strong visual presence.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="best-brand-strategy-company-in-mumbai-india.php">Read More</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex">
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="0ms">
+                    <div class="icon">
+                        <img src="img/icons/packaging.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Packaging Design</h3>
+                    <p class="text">We develop and execute comprehensive digital marketing campaigns that encompass SEO, PPC, social media marketing, and more.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="creative-packaging-and-designing-services-in-navi-mumbai.php">Read More</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex">
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="icon">
+                        <img src="img/icons/brand.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Website Design</h3>
+                    <p class="text">We design user-friendly websites that capture your brand's essence and drive results. From e-commerce to corporate websites, we deliver pixel-perfect designs.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="brand-designing-company-in-mumbai.php">Read More</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex">
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="300ms">
+                    <div class="icon">
+                        <img src="img/icons/digital.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Digital Marketing</h3>
+                    <p class="text">We strategically leverage outdoor advertising solutions like billboards, signage, and vehicle wraps to reach your target audience in high-traffic areas.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="top-digital-marketing-partner-in-mumbai-india.php">Read More</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex">
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="300ms">
+                    <div class="icon">
+                        <img src="img/icons/photo.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Photography and Videography</h3>
+                    <p class="text">From product shoots to brand films, we deliver high-quality content that engages your audience.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="india-top-leading-advertising-agency-in-navi-mumbai.php">Read More</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 d-flex">
+                <div class="service-item service-item-6 mt-30 animated wow fadeInUp"  data-wow-duration="1000ms" data-wow-delay="300ms">
+                    <div class="icon">
+                        <img src="img/icons/space.png" style="height: 50px;">
+                    </div>
+                    <h3 class="title">Space Design</h3>
+                    <p class="text">We strategically leverage outdoor advertising solutions like billboards, signage, and vehicle wraps to reach your target audience in high-traffic areas.</p>
+                    <a class="main-btn main-btn-3 mt-25 svc-btn" href="best-space-design-service-provider-in-navi-mumbai.php">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
         </div>
     </section>
 
