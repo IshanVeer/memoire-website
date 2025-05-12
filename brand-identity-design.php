@@ -269,24 +269,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <!-- Brand guideline book -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-2 order-lg-1">
-                       <div class="key-feature-content">
-                            <h2 class="title"> ⁠Brand guidelines book</h2>
+            <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  <!-- Text Column -->
+  <div class="col-lg-8 order-2 order-lg-1 d-flex">
+    <div class="key-feature-content my-auto">
+      <h2 class="title">Brand guidelines book</h2>
+      <div class="text">
+        A brand guideline book is your brand’s instruction manual—it ensures consistency and clarity across every touchpoint. From logo usage and color palettes to tone of voice and imagery, we create comprehensive guidelines that help internal teams and external partners maintain a unified and professional brand presence.
+      </div>
+    </div>
+  </div>
 
-                            <div class="text">A brand guideline book is your brand’s instruction manual—it ensures consistency and clarity across every touchpoint. From logo usage and color palettes to tone of voice and imagery, we create comprehensive guidelines that help internal teams and external partners maintain a unified and professional brand presence.</div><br>
-                           
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/brand-guideline.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+  <!-- Image Column -->
+  <div class="col-lg-4 order-1 order-lg-2 p-0">
+    <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+      <img src="img/brand-guideline.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+    </div>
+  </div>
+</div>
 
 <!-- collateral -->
             <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
