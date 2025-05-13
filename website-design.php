@@ -188,127 +188,128 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- UI/UX Design -->
             
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-2 order-lg-1">
-                        <div class="key-feature-content">
-                            <h2 class="title">UI/UX Design</h2>
-                            <div class="text">Our UI/UX design services focus on creating websites that are not only visually appealing but also user-friendly. We ensure seamless navigation and an intuitive layout, improving user engagement and satisfaction. Whether it's a simple site or a complex platform, we design experiences that work for your users in Mumbai, India.</div>
-                            
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <!-- Replace the image tag with a video tag -->
-                            <video style="width: 100%;" autoplay loop muted>
-                                <source src="img/strategy.mp4" type="video/mp4">
-                                <!-- You can add additional sources for other video formats if needed -->
-                                <source src="path/to/your/video.webm" type="video/webm">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <!-- Front-End Development -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-4">
-                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/brand-naming.jpg" style="width:90%;" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                       <div class="key-feature-content">
-                            <h2 class="title">Front-End Development</h2>
-                            <div class="text">With expert front-end development, we turn your designs into interactive and engaging websites. Using HTML, CSS, and JavaScript, we create responsive and dynamic user interfaces that are fast and accessible. Our team ensures your website looks great across all devices and browsers, providing a smooth experience for your visitors.</div><br>
-                            
-                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
-                        </div>
+        <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+            <div class="col-lg-8 order-2 order-lg-1 d-flex">
+                <div class="key-feature-content my-auto">
+                    <h2 class="title">UI/UX Design</h2>
+                    <div class="text">
+                    Our UI/UX design services focus on creating websites that are not only visually appealing but also user-friendly. We ensure seamless navigation and an intuitive layout, improving user engagement and satisfaction. Whether it's a simple site or a complex platform, we design experiences that work for your users in Mumbai, India.
                     </div>
                 </div>
             </div>
+
+ 
+            <div class="col-lg-4 order-1 order-lg-2 p-0">
+                <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+                    <img src="img/ui-ux.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- Front-End Development -->
+        <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+            <div class="col-lg-8 order-1 order-lg-2 d-flex">
+                <div class="key-feature-content my-auto">
+                    <h2 class="title">Front-End Developmentk</h2>
+                    <div class="text">
+                    With expert front-end development, we turn your designs into interactive and engaging websites. Using HTML, CSS, and JavaScript, we create responsive and dynamic user interfaces that are fast and accessible. Our team ensures your website looks great across all devices and browsers, providing a smooth experience for your visitors.
+                    </div>
+                </div>
+            </div>
+
+ 
+            <div class="col-lg-4 order-2 order-lg-1 p-0">
+                <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+                    <img src="img/frontend.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+                </div>
+            </div>
+        </div>
 
 <!-- Back-End Development -->
-            <div class="key-feature-item key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/color.png" style="width:90%;" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-8 order-2 order-lg-1">
-                       <div class="key-feature-content">
-                            <h2 class="title">Back-End Development</h2>
-                            <div class="text">Our back-end development services focus on building a robust server-side structure for your website. We use modern technologies like PHP, Python, and Node.js to handle databases, user authentication, and server management. We ensure that your website runs efficiently and securely, supporting smooth data flow and operations.</div><br>
-                            
-                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
-                        </div>
+        <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+            <div class="col-lg-8 order-2 order-lg-1 d-flex">
+                <div class="key-feature-content my-auto">
+                    <h2 class="title">Back-End Development</h2>
+                    <div class="text">
+                    Our back-end development services focus on building a robust server-side structure for your website. We use modern technologies like PHP, Python, and Node.js to handle databases, user authentication, and server management. We ensure that your website runs efficiently and securely, supporting smooth data flow and operations.
                     </div>
                 </div>
             </div>
-            <!-- Responsive Design -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-1 order-lg-2">
-                       <div class="key-feature-content">
-                            <h2 class="title">Responsive Design</h2>
 
-                            <div class="text">We specialize in responsive web design, ensuring that your website adapts perfectly to all screen sizes, from smartphones to desktops. Our designs prioritize functionality and user experience, making your site accessible on any device. With mobile-friendly layouts, your website will deliver an excellent experience for users everywhere in Mumbai and beyond.</div><br>
-                           
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-2 order-lg-1">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/collateral.png" alt="">
-                        </div>
-                    </div>
+
+            <div class="col-lg-4 order-1 order-lg-2 p-0">
+                <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+                    <img src="img/back-end.avif" alt="" class="img-fluid h-100 w-100 object-fit-cover">
                 </div>
             </div>
+        </div>
+            <!-- Responsive Design -->
+            <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+  <div class="col-lg-8 order-1 order-lg-2 d-flex">
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Responsive Design</h2>
+          <div class="text">
+          We specialize in responsive web design, ensuring that your website adapts perfectly to all screen sizes, from smartphones to desktops. Our designs prioritize functionality and user experience, making your site accessible on any device. With mobile-friendly layouts, your website will deliver an excellent experience for users everywhere in Mumbai and beyond.
+          </div>
+      </div>
+  </div>
+
+
+  <div class="col-lg-4 order-2 order-lg-1 p-0">
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/responsive-design.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
+  </div>
+</div>
             <!-- Web Hosting  -->
-            <div class="key-feature-item key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/color.png" style="width:90%;" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-8 order-2 order-lg-1">
-                       <div class="key-feature-content">
-                            <h2 class="title">Web Hosting </h2>
-                            <div class="text">Choosing the right web hosting is key to a website’s performance. We offer reliable web hosting services that ensure your site is always live and fast. Whether you're looking for shared hosting, VPS, or cloud solutions, we help you choose the best option to suit your needs, ensuring smooth operation and minimal downtime.</div><br>
-                            
-                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+  <div class="col-lg-8 order-2 order-lg-1 d-flex">
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Web Hosting</h2>
+          <div class="text">
+          Choosing the right web hosting is key to a website’s performance. We offer reliable web hosting services that ensure your site is always live and fast. Whether you're looking for shared hosting, VPS, or cloud solutions, we help you choose the best option to suit your needs, ensuring smooth operation and minimal downtime.
+          </div>
+      </div>
+  </div>
+
+
+  <div class="col-lg-4 order-1 order-lg-2 p-0">
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/web-hosting.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
+  </div>
+</div>
 
 <!-- Graphics and Visual Design  -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-1 order-lg-2">
-                       <div class="key-feature-content">
-                            <h2 class="title">Graphics and Visual Design </h2>
+<div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
+  <div class="col-lg-8 order-1 order-lg-2 d-flex">
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Graphics and Visual Design</h2>
+          <div class="text">
+          Our graphic design services enhance your website’s visual appeal with custom illustrations, icons, and branding. We create striking visuals that capture your brand’s essence and engage visitors. From logo design to complete branding solutions, our graphic designers craft designs that not only look great but also convey your message effectively.
 
-                            <div class="text">Our graphic design services enhance your website’s visual appeal with custom illustrations, icons, and branding. We create striking visuals that capture your brand’s essence and engage visitors. From logo design to complete branding solutions, our graphic designers craft designs that not only look great but also convey your message effectively.</div><br>
-                           
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-2 order-lg-1">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/business-collateral.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
+      </div>
+  </div>
+
+
+  <div class="col-lg-4 order-2 order-lg-1 p-0">
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/graphic-design.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
+  </div>
+</div>
 
             
-<!-- 3-D modelling -->
+
    			
 
          
