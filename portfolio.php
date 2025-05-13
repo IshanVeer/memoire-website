@@ -140,7 +140,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/washnpress/wp.webp" alt="">
-                            <a href="#">See details <span><img src="img/work/mascot.webp" alt=""></span></a>
+                            <a href="washnpress-details.php">See details <span><img src="img/work/mascot.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Washnpress</h5>
@@ -152,7 +152,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/vibral/2.webp" alt="">
-                            <a href="#">See details <span><img src="img/work/outlet.webp" alt=""></span></a>
+                            <a href="vibral.php">See details <span><img src="img/work/outlet.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">vibral</h5>
@@ -164,7 +164,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/hog/1.webp" alt="">
-                            <a href="#">See details <span><img src="img/work/business.webp" alt=""></span></a>
+                            <a href="hog.php">See details <span><img src="img/work/business.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Helen O'Grady International</h5>
@@ -176,7 +176,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/work/samadhan.png" alt="">
-                            <a href="#">See details <span><img src="img/work/banner.webp" alt=""></span></a>
+                            <a href="samadhan.php">See details <span><img src="img/work/banner.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Samadhan Juice</h5>
@@ -189,7 +189,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/spicemuch/11.jpeg" alt="">
-                            <a href="#">See details <span><img src="img/work/banner.webp" alt=""></span></a>
+                            <a href="spicemuch.php">See details <span><img src="img/work/banner.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Spice Much</h5>
@@ -202,7 +202,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/colours/2.webp" alt="">
-                            <a href="#">See details <span><img src="img/work/business.webp" alt=""></span></a>
+                            <a href="colours.php">See details <span><img src="img/work/business.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Colours Multipecialitiy Hospital</h5>
@@ -215,7 +215,7 @@
                     <div class="portfolio-style-4-item mt-30">
                         <div class="portfolio-thumb">
                             <img src="img/spandan/2.webp" alt="">
-                            <a href="#">See details <span><img src="img/work/business.webp" alt=""></span></a>
+                            <a href="spandan.php">See details <span><img src="img/work/business.webp" alt=""></span></a>
                         </div>
                         <div class="portfolio-content">
                             <h5 class="title">Spandan Multipecialitiy Hospital</h5>
