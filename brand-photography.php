@@ -188,125 +188,125 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- Product Shoots -->
             
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-2 order-lg-1">
-                        <div class="key-feature-content">
-                            <h2 class="title">Product Shoots</h2>
-                            <div class="text">Highlight the best features of your products with professional photography and videography. Showcase every detail, texture, and functionality to captivate your audience. These high-quality visuals are perfect for eCommerce, catalogs, or advertisements, making your products irresistible to potential customers and boosting your overall sales conversions.</div>
-                            
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <!-- Replace the image tag with a video tag -->
-                            <video style="width: 100%;" autoplay loop muted>
-                                <source src="img/strategy.mp4" type="video/mp4">
-                                <!-- You can add additional sources for other video formats if needed -->
-                                <source src="path/to/your/video.webm" type="video/webm">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <!-- Corporate Branding -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-4">
-                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/brand-naming.jpg" style="width:90%;" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                       <div class="key-feature-content">
-                            <h2 class="title">Corporate Branding</h2>
-                            <div class="text">Establish a strong and trustworthy brand identity with professional team portraits, office photography, and corporate videos. These visual assets reflect your company’s culture, professionalism, and values, creating a consistent and impressive image that resonates with clients, partners, and employees alike.</div><br>
-                            
-                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-<!-- Lifestyle Content -->
-            <div class="key-feature-item key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 order-1 order-lg-2">
-                        <div class="key-feature-thumb animated wow fadeInLeft" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/color.png" style="width:90%;" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-8 order-2 order-lg-1">
-                       <div class="key-feature-content">
-                            <h2 class="title">Lifestyle Content</h2>
-                            <div class="text">Bring your brand closer to your audience with authentic lifestyle visuals. Show real people interacting with your products in everyday scenarios, creating relatable and engaging content that fosters an emotional connection and inspires your customers to see your product as part of their lives.</div><br>
-                            
-                            <!-- <a href="#">View case study <span><img src="assets/images/icon/hero-icon-2.png" alt=""></span></a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Event Coverage -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-1 order-lg-2">
-                       <div class="key-feature-content">
-                            <h2 class="title">⁠Event Coverage</h2>
-
-                            <div class="text">Relive the excitement of your special events with stunning photo and video coverage. From product launches to corporate conferences, we capture every key moment, ensuring a comprehensive record of the energy, ambiance, and highlights that can be shared or archived for years to come.</div><br>
-                           
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-2 order-lg-1">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/collateral.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Social Media Content -->
-            <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
-  <!-- Text Column -->
+        <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+  
   <div class="col-lg-8 order-2 order-lg-1 d-flex">
-    <div class="key-feature-content my-auto">
-      <h2 class="title">Social Media Content</h2>
-      <div class="text">
-      Bring your brand to life with dynamic social media content that captures attention and drives engagement. From eye-catching photos to scroll-stopping videos, we craft tailored visuals that reflect your brand’s personality and message. Whether it's behind-the-scenes moments, product showcases, or promotional campaigns, we help you create content that connects and resonates across all platforms.
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Product Shoots</h2>
+          <div class="text">
+          Highlight the best features of your products with professional photography and videography. Showcase every detail, texture, and functionality to captivate your audience. These high-quality visuals are perfect for eCommerce, catalogs, or advertisements, making your products irresistible to potential customers and boosting your overall sales conversions.
+          </div>
       </div>
-    </div>
   </div>
 
-  <!-- Image Column -->
+
   <div class="col-lg-4 order-1 order-lg-2 p-0">
-    <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
-      <img src="img/brand-guideline.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
-    </div>
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/product-shoot.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
   </div>
 </div>
 
-<!-- Promotional Campaigns -->
-            <div class="key-feature-item mb-80 mt-30" style="background-color:#f4ece9;">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 order-1 order-lg-2">
-                       <div class="key-feature-content">
-                            <h2 class="title">Promotional Campaigns</h2>
 
-                            <div class="text">Boost your brand awareness with creative and compelling promotional campaigns. Whether launching a new product or running a seasonal sale, we create attention-grabbing visuals and videos that drive engagement, communicate your message effectively, and leave a lasting impression.</div><br>
-                           
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-4 order-2 order-lg-1">
-                        <div class="key-feature-thumb animated wow fadeInRight" data-wow-duration="3000ms" data-wow-delay="0ms">
-                            <img src="img/business-collateral.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+<!-- Corporate Branding-->
+<div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+
+  <div class="col-lg-8 order-1 order-lg-2 d-flex">
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Corporate Branding</h2>
+          <div class="text">
+          Establish a strong and trustworthy brand identity with professional team portraits, office photography, and corporate videos. These visual assets reflect your company’s culture, professionalism, and values, creating a consistent and impressive image that resonates with clients, partners, and employees alike.
+          </div>
+      </div>
+  </div>
+
+
+  <div class="col-lg-4 order-2 order-lg-1 p-0">
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/corporate-branding.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
+  </div>
+</div>
+
+<!-- Lifestyle Content -->
+<div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+
+  <div class="col-lg-8 order-2 order-lg-1 d-flex">
+      <div class="key-feature-content my-auto">
+          <h2 class="title">Lifestyle Content</h2>
+          <div class="text">
+          Bring your brand closer to your audience with authentic lifestyle visuals. Show real people interacting with your products in everyday scenarios, creating relatable and engaging content that fosters an emotional connection and inspires your customers to see your product as part of their lives.
+          </div>
+      </div>
+  </div>
+
+
+  <div class="col-lg-4 order-1 order-lg-2 p-0">
+      <div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+          <img src="img/lifestyle-branding.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+      </div>
+  </div>
+</div>
+  <!-- Event Coverage -->
+  <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+
+<div class="col-lg-8 order-1 order-lg-2 d-flex">
+<div class="key-feature-content my-auto">
+<h2 class="title">Event Coverage</h2>
+<div class="text">
+Relive the excitement of your special events with stunning photo and video coverage. From product launches to corporate conferences, we capture every key moment, ensuring a comprehensive record of the energy, ambiance, and highlights that can be shared or archived for years to come.
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 order-2 order-lg-1 p-0">
+<div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+<img src="img/event-coverage.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+</div>
+</div>
+</div>
+  <!-- Social Media Content  -->
+  <div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+
+<div class="col-lg-8 order-2 order-lg-1 d-flex">
+<div class="key-feature-content my-auto">
+<h2 class="title">Social Media Content</h2>
+<div class="text">
+Bring your brand to life with dynamic social media content that captures attention and drives engagement. From eye-catching photos to scroll-stopping videos, we craft tailored visuals that reflect your brand’s personality and message. Whether it's behind-the-scenes moments, product showcases, or promotional campaigns, we help you create content that connects and resonates across all platforms.
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 order-1 order-lg-2 p-0">
+<div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+<img src="img/social-media-content.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+</div>
+</div>
+</div>
+
+<!-- Promotional Campaigns  -->
+<div class="key-feature-item row align-items-stretch mb-80 mt-30" style="background-color:#f4ece9; min-height:350px;">
+
+<div class="col-lg-8 order-1 order-lg-2 d-flex">
+<div class="key-feature-content my-auto">
+<h2 class="title">Promotional Campaigns</h2>
+<div class="text">
+Boost your brand awareness with creative and compelling promotional campaigns. Whether launching a new product or running a seasonal sale, we create attention-grabbing visuals and videos that drive engagement, communicate your message effectively, and leave a lasting impression.
+
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 order-2 order-lg-1 p-0">
+<div class="key-feature-thumb h-100 w-100 d-flex align-items-center justify-content-center">
+<img src="img/promotional-campaign.jpg" alt="" class="img-fluid h-100 w-100 object-fit-cover">
+</div>
+</div>
+</div>
 
         
     </section>
