@@ -10,7 +10,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="Expert brand design in Mumbai & Dubai. Create lasting impressions with our logo design, brand identity, and guidelines.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="canonical" href="https://memoire.co.in/brand-designing-company-in-mumbai.php">
+    <link rel="canonical" href="https://memoire.co.in/brand-photography.php">
     <!--====== Title ======-->
     <title>Expert Brand Videography and Photography Services | Memoire</title>
     
